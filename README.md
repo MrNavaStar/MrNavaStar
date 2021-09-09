@@ -1,4 +1,8 @@
-### Hi there 👋
+# About me!
+
+#### I am a university student with a passion for computer science! 
+#### I mainly work on minecraft mods and utilities for my server [Arnaria](https://www.arnaria.ca). Check out some of my pinned projects!
+###### You can email me at Mr.NavaStar@gmail.com
 
 <!--
 **MrNavaStar/MrNavaStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
