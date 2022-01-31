@@ -1,20 +1,13 @@
 # About me!
 
-#### I am a university student with a passion for computer science! 
-#### I mainly work on minecraft mods and utilities for my server [Arnaria](https://www.arnaria.ca). Check out some of my pinned projects!
-###### You can email me at Mr.NavaStar@gmail.com
+I am a university student with a passion for computer science! 
+I am well versed in java and python, and currently diving into rust! I love learning new technologies and would love to start a project with you!
 
-<!--
-**MrNavaStar/MrNavaStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇨🇦 Canada, eh
+- 🎓 MacEwan - Comp Sci
+- ⌨️ Java, Python, Rust
+- 🎮 Minecraft, Factorio, Satisfactory
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+- Email: Mr.NavaStar@gmail.com
+- Discord: [MrNavaStar#3875]()
