@@ -9,3 +9,5 @@ I am well versed in java and python, and currently diving into rust! I love lear
 #### Contact
 - Email: Mr.NavaStar@gmail.com
 - Discord: [MrNavaStar#3875]()
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4DZF4D)
