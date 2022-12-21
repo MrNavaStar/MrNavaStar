@@ -3,7 +3,7 @@ I am well versed in java and python, and currently diving into rust! I love lear
 
 - 🇨🇦 Canada, eh
 - 🎓 MacEwan - Comp Sci
-- ⌨️ Java, Python, Rust, Go
+- ⌨️ Java, Python, Nim, Rust, Go
 - 🎮 Minecraft, Factorio, Satisfactory
 
 #### Contact
