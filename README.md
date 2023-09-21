@@ -4,7 +4,7 @@ I am well versed in java and python, and currently diving into rust! I love lear
 - 🇨🇦 Canada, eh
 - 🎓 MacEwan - Comp Sci
 - ⌨️ Java, Python, Nim, Rust, Go, C/C++
-- 🎮 Minecraft, Factorio, Satisfactory
+- 🎮 Minecraft, Factorio, Satisfactory, Deep Rock Galactic
 
 #### Contact
 - Email: Mr.NavaStar@gmail.com
