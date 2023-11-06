@@ -6,7 +6,7 @@ _  /  / / _  /   _  /|  / / /_/ /__ |/ // /_/ /____/ // /_ / /_/ /_  /
 /_/  /_/  /_/    /_/ |_/  \__,_/ _____/ \__,_/ /____/ \__/ \__,_/ /_/     
 ```
 
-So you like well written code eh? No? Good, cause you wont be finding any of it here. 
+Currently developing an unhealthy amount of projects...
 
 - 🇨🇦 Canada, eh
 - 🎓 MacEwan - Comp Sci
