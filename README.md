@@ -6,12 +6,12 @@ _  /  / / _  /   _  /|  / / /_/ /__ |/ // /_/ /____/ // /_ / /_/ /_  /
 /_/  /_/  /_/    /_/ |_/  \__,_/ _____/ \__,_/ /____/ \__/ \__,_/ /_/     
 ```
 
-Currently developing an unhealthy amount of projects...
+Currently developing an unhealthy amount of projects ...
 
 - 🇨🇦 Canada, eh
 - 🎓 MacEwan - Comp Sci
-- 💻 Java Connoisseur, Kotlin Denier
-- 🎮 Minecraft, Factorio, Satisfactory, Deep Rock Galactic
+- 💻 Java Connoisseur (Kotlin Denier), Go Enojyer, C Hackerman
+- 🎮 Minecraft, Factorio, Satisfactory, Deep Rock Galactic and Helldivers 2
 
 #### Contact
 - Email: Mr.NavaStar@gmail.com
