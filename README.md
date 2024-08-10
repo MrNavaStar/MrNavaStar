@@ -9,7 +9,7 @@ _  /  / / _  /   _  /|  / / /_/ /__ |/ // /_/ /____/ // /_ / /_/ /_  /
 Currently developing an unhealthy amount of projects ...
 
 - 🇨🇦 Canada, eh
-- 🎓 MacEwan - Comp Sci
+- 🎓 U of A - Comp Sci
 - 💻 Java Connoisseur (Kotlin Denier), Go Enojyer, C Hackerman
 - 🎮 Minecraft, Factorio, Satisfactory, Deep Rock Galactic and Helldivers 2
 
