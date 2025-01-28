@@ -16,5 +16,6 @@ Currently developing an unhealthy amount of projects ...
 #### Contact
 - Email: Mr.NavaStar@gmail.com
 - Discord: [mrnavastar]()
+- Discord Server: [Navazon](https://discord.gg/ycxKHvUHTr)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4DZF4D)
